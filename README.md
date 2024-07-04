@@ -1,1 +1,2 @@
-# Recommendation-system
+# Movie Recommendation-system
+ machine learning-based movie recommendation system that predicts user preferences using collaborative filtering, content-based filtering, and hybrid techniques. Leveraged algorithms such as k-nearest neighbors, matrix factorization, and deep learning to analyze user data and movie attributes. Conducted data preprocessing and implemented evaluation metrics like precision, recall, and F1-score to ensure accurate recommendations. The system enhances personalization by continuously learning from user feedback, thereby boosting user engagement and retention for streaming platforms.*
